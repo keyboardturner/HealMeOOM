@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: HealMeOOM
+## Notes: Do /healme when you are below 10% health. Do /OOM when below 10% mana on a healer.
+## Author: Keyboardturner
+## Version: 0.0.1
+
+HealMeOOM.lua
